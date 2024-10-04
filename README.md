@@ -1,0 +1,1 @@
+This is the project for learning to add Entity framework Core with In memory database to the minimal APIs in dotnet core by following the documentation at below link. It uses .NET 8. https://learn.microsoft.com/en-us/training/paths/aspnet-core-minimal-api/
